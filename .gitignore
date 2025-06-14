@@ -1,4 +1,5 @@
 .DS_Store
+.vscode
 fresh_rss_data/
 vendor/
 wallabag_data/
